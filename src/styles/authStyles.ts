@@ -35,6 +35,7 @@ export const authStyles = StyleSheet.create({
         width: '100%',
         backgroundColor: "#ffffff",
         paddingHorizontal: 10,
+        color: "#000",
     },
     label: {
         color: "#878181",
